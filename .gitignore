@@ -1,0 +1,22 @@
+# CLion configuration
+/.idea/*
+!/.idea/codeStyles
+!/.idea/inspectionProfiles
+
+# CMake build directories:
+build/
+build.*/
+cmake-build-*/
+
+# MacOS Finder preferences
+.DS_Store
+
+# Racket build artifacts:
+compiled/
+
+# Racket code coverage artifacts:
+coverage/
+
+# Racket backup files:
+*~
+*.bak
